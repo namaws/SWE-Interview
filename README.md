@@ -1,3 +1,6 @@
 # SWE-Interview
 Interview Preperation Notes
-## LeetCode
+## Frontend Development
+## Backend Development
+## Mobile Development
+## Machine Learning
